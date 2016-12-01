@@ -21,6 +21,7 @@ public class analyze {
 		conn = DBfunctions.connect();
 		List<Analysis.Status> l = new ArrayList<Analysis.Status>();
 		List<Analysis.Status> lND = new ArrayList<Analysis.Status>();
+		List<Analysis.Status> lPM = new ArrayList<Analysis.Status>();
 		List<Analysis.Status> lSyr = new ArrayList<Analysis.Status>();
 		File fSyr, fND;
 		
@@ -32,11 +33,12 @@ public class analyze {
 		
 		String[] positiveEmotes = {":)", ":-)", ":D", ":-D", "^_^", "^.^", ":*", ":-*"};
 		String[] negativeEmotes = {":(", ":-(", ":'("};
-		List<Analysis.Status> SyrPos,NDPos,SyrNeg,NDNeg;
+		List<Analysis.Status> SyrPos, NDPos, SyrNeg, NDNeg, PMPos, PMNeg;
 		
 		
 		try {
-			l = DBfunctions.read(conn);
+			l = DBfunctions.read(conn, "hashtagBased");
+			lPM = DBfunctions.read(conn, "timelineBased");
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
@@ -52,6 +54,8 @@ public class analyze {
 		NDPos = count(lND,positiveEmotes);
 		SyrNeg = count(lSyr,negativeEmotes);
 		NDNeg = count(lND,negativeEmotes);
+		PMPos = count(lPM,positiveEmotes);
+		PMNeg = count(lPM,negativeEmotes);
 		System.out.println("SyrPos :" + SyrPos.size());
 		System.out.println(SyrPos);
 		System.out.println("SyrNeg :" + SyrNeg.size());
@@ -60,6 +64,10 @@ public class analyze {
 		System.out.println(NDPos);
 		System.out.println("NDNeg :" + NDNeg.size());
 		System.out.println(NDNeg);
+		System.out.println("PMPos :" + PMPos.size());
+		System.out.println(PMPos);
+		System.out.println("PMNeg :" + PMNeg.size());
+		System.out.println(PMNeg);
 	}
 	
 	private static List<Analysis.Status> count(List<Analysis.Status> l, String[] s){
