@@ -40,28 +40,30 @@ public class retrieve {
 		lSyr = startSearch(Syr);
 		stDB.store(lSyr, "Syriza", "hashtagBased");
 		
-		lPM = startSearch("from:PrimeministerGR");
+		lPM = startSearch("@PrimeministerGR");
+		lPM.addAll(startSearch ("@atsipras"));
 		stDB.store(lPM, "@PrimeministerGR", "timelineBased");
 		
 		
 		
 		
-		for (Status tweet : lND) {
-			System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
-			System.out.println(tweet.getCreatedAt());
-		}
+		
+		//for (Status tweet : lND) {
+		//	System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
+		//	System.out.println(tweet.getCreatedAt());
+		//}
 
-		for (Status tweet : lSyr) {
-			System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
-			System.out.println(tweet.getCreatedAt());
-		}
+		//for (Status tweet : lSyr) {
+		//	System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
+		//	System.out.println(tweet.getCreatedAt());
+		//}
 		
-		for (Status tweet : lPM) {
-            System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
-            System.out.println(tweet.getCreatedAt());
-		}
+		//for (Status tweet : lPM) {
+        //    System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
+        //   System.out.println(tweet.getCreatedAt());
+		//}
 		
-		System.out.println("@PrimeministerGR has sent " + lPM.size() + " tweets");
+		System.out.println("@PrimeministerGR or @atsipras has been included in " + lPM.size() + " tweets");
 		System.out.println("Retrieved " + lND.size() + " tweets for ND");
 		System.out.println("Retrieved " + lSyr.size() + " tweets for Syriza");
 		for (int i = 0; i<hashtagCount.length; i++){
