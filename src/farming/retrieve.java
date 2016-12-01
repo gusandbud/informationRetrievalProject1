@@ -1,4 +1,4 @@
-package informationRetrievalProj1;
+package farming;
 
 import java.io.File;
 import java.io.FileNotFoundException;
