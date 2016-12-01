@@ -1,4 +1,4 @@
-package informationRetrievalProj1;
+package farming;
 import java.sql.Date;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
