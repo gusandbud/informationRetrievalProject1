@@ -32,7 +32,7 @@ public class DBfunctions {
 		
 	}
 	
-	public static List<Analysis.Status> read(Connection conn) throws SQLException{
+	public static List<Analysis.Status> read(Connection conn, String table) throws SQLException{
 		List<Analysis.Status> l = new ArrayList<Analysis.Status>();
 		Analysis.Status s;
 		String usr, txt, h;
@@ -42,7 +42,7 @@ public class DBfunctions {
 		String query = "USE twitter;";
 		java.sql.PreparedStatement state = conn.prepareStatement(query);
 		state.executeUpdate();
-		query = "SELECT * FROM hashtagBased";
+		query = "SELECT * FROM "+ table;
 		state = conn.prepareStatement(query);
 		rs = state.executeQuery();
 		while(rs.next()){
