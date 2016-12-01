@@ -34,14 +34,13 @@ public class MineFromTwitter {
 		} while((q = qres.nextQuery()) != null);
 		System.out.println("Searching..");
 		
-		
 		//results = results.parallelStream()
 		//		.filter(res -> !(res.isRetweet()))
 		//		.filter(res -> !(res.getText().isEmpty() || res.getText() == null))
 		//		.collect(Collectors.toList());
-		
 		System.out.println("Got " + results.size() + " tweets");
 		
+		//while
 		return results;
 	}
 }
