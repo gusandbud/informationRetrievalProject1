@@ -254,9 +254,1555 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	</row>
 
 	<row>
+		<field name="id">804126679769694208</field>
+		<field name="usr">MarielaPerez41</field>
+		<field name="txt">RT @TuiteraDeChavez: Hermoso discurso d @atsipras en #HonorAFidel Bueno serìa q @RealDonaldTrump y @POTUS Escucharan como es que se AGRADEC…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804156995897098240</field>
+		<field name="usr">News24_it</field>
+		<field name="txt">RT @DDeliolanes: Informiamo il serissimo @Corriere che il discorso funebre per Fidel è stato pronunciato da premier greco @atsipras , mai c…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804158602466488321</field>
+		<field name="usr">vickyfnd</field>
+		<field name="txt">RT @malaviti: Μην εισαι τόσο μετριοπαθής @atsipras. Δεν ήρθαν για να αποχαιρετήσουν τον Κάστρο.  Ηρθαν για να δουν εσένα, τον comandante το…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804159459689951232</field>
+		<field name="usr">vickyfnd</field>
+		<field name="txt">RT @malaviti: Τεχνογνωσία αναζητά ο @atsipras με το ταξίδι στην Κούβα. Έχουν εκει απάντηση στο ερώτημα για τις επόμενες εκλογες: Να πάμε 57…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804160174072139777</field>
+		<field name="usr">el_boVidor</field>
+		<field name="txt">RT @shimba24: @atsipras Από τον λογαριασμό αυτό εκπροσωπείς μια ΧΩΡΑ...Όχι το κόμμα σου που συμπαθεί αιμοσταγείς τυράννους και δικτάτορες...</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804160512019857416</field>
+		<field name="usr">el_boVidor</field>
+		<field name="txt">RT @malaviti: .@atsipras: Κουβανοί απ όλο τον κόσμο προσπαθούν να πάνε με καθε τρόπο στην Κούβα για να παραβρεθούν στην κηδεία του μεγάλου…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804180781539164160</field>
+		<field name="usr">Sekourianos</field>
+		<field name="txt">@NickRomanos @atsipras που δεν φορεσε γραβατα</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804182156536926210</field>
+		<field name="usr">AntennaNews</field>
+		<field name="txt">Αποκάλυψη ΑΝΤ1: τα μέτρα του επικαιροποιημένου μνημονίου
+https://t.co/qGJzdMapMl @atsipras @tsakalotos @J_Dijsselbloem #Eurogroup</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804184686155235328</field>
+		<field name="usr">barbarosa69</field>
+		<field name="txt">RT @atsipras: Ο Φιντέλ έφυγε από τη ζωή αλλά θα βρίσκεται για πάντα στους μικρούς και μεγάλους αγώνες των λαών σε όλο τον πλανήτη.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804186807063773184</field>
+		<field name="usr">GlavasThomas</field>
+		<field name="txt">RT @AntennaNews: Αποκάλυψη ΑΝΤ1: τα μέτρα του επικαιροποιημένου μνημονίου
+https://t.co/qGJzdMapMl @atsipras @tsakalotos @J_Dijsselbloem #Eu…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804195899136180224</field>
+		<field name="usr">ysterografa</field>
+		<field name="txt">.@EEAthina Η Μέρκελ (ξανα) πηγαίνει σε εκλογές με “success story” την Ελλάδα https://t.co/cICXuVSENS … #Ysterografa @Europarl_EL @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804200651056103424</field>
+		<field name="usr">AntennaNews</field>
+		<field name="txt">Ανοιχτό το ενδεχόμενο για έκτακτο Eurogroup https://t.co/vUAOPwvwiB via @AntennaNews @atsipras @tsakalotos #Eurogroup</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804203066690072576</field>
+		<field name="usr">AntennaNews</field>
+		<field name="txt">Στο Άμπου Ντάμπι με Μέρκελ και Ολάντ ο Αλέξης Τσίπρας https://t.co/DvYjBnJ9FI via @AntennaNews @atsipras @President_FR</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804204240117833728</field>
+		<field name="usr">acivictim</field>
+		<field name="txt">@atsipras και στη φλόγα των αντικαθεστωτικών φυλακισμένων</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804205914622427137</field>
+		<field name="usr">thatrelathw</field>
+		<field name="txt">Αλλη μια επιτυχια της συγκυβερνησης @atsipras @PanosKammenos https://t.co/kY3prwuKx0</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804207703195324416</field>
+		<field name="usr">Kost_LADN</field>
+		<field name="txt">@atsipras world tour 2017! https://t.co/rP8BDHndPo</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804210772901498880</field>
+		<field name="usr">DeleteAfterUse</field>
+		<field name="txt">@atsipras Ψιτ Αλέξη αυτοί με τις στολές από πίσω σου κατάλαβες ότι είναι μέλη στρατιωτικού καθεστώτος που κυβερνά χωρίς εκλογές 60 χρόνια;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804212472274161664</field>
+		<field name="usr">oklasikosomalak</field>
+		<field name="txt">@gmourout σε όλα αυτά περιμένετε απαντήσεις; είναι κότες και να κάνουν ευθείς ερωτήσεις στον ηγέρπη @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804213108935970816</field>
+		<field name="usr">oklasikosomalak</field>
+		<field name="txt">@tovimagr @atsipras θα πας στη κηδεία;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804213530308263936</field>
+		<field name="usr">oklasikosomalak</field>
+		<field name="txt">@tovimagr @atsipras ρωτάω για να ενημερώσουμε το Τσακνή</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804216243838390272</field>
+		<field name="usr">Stravoxylo</field>
+		<field name="txt">@konkortinas @nickthegreek5 @AvgiOnline σεισμοί και καταποντισμό στη ζακυνθο α @atsipras περιμένει τον λοιμό για να πάει</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804217004718747648</field>
+		<field name="usr">mnootmoe</field>
+		<field name="txt">Ο @kmitsotakis ζήτησε από τον Άη Βασίλη την παραίτηση του @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804219034841530368</field>
+		<field name="usr">ysterografa</field>
+		<field name="txt">.@atsipras Ο @Yalafouzos γίνεται πανίσχυρος,αν αγοράσει“Νέα” https://t.co/hRCZsmMv5P @kmitsotakis @FofiGennimata @ProedrosEK @St_Theodorakis</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804219993944686592</field>
+		<field name="usr">Protostatis</field>
+		<field name="txt">RT @mnootmoe: Ο @kmitsotakis ζήτησε από τον Άη Βασίλη την παραίτηση του @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804221525499006976</field>
+		<field name="usr">giannischa1951</field>
+		<field name="txt">ΑΛΕΞΗΣ @atsipras ΣΤΗΝ ΚΟΥΒΑ
+#ΑΠΑΤΕΩΝΑΣ Απογείωσε την εξαπάτηση 
+https://t.co/W2jt7kLOjg https://t.co/AOcyajVOFV</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804222041452924929</field>
+		<field name="usr">PavlosE</field>
+		<field name="txt">@HrissyD @atsipras ποιητής φανφάρας...</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804222738416226304</field>
+		<field name="usr">politiconline</field>
+		<field name="txt">@ybalafas RT @atsipras: Χθες βράδυ στην Αβάνα, για το τελευταίο αντίο στον… https://t.co/F900FzeeJG @politiconline</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804223070244311040</field>
+		<field name="usr">HrissyD</field>
+		<field name="txt">@PavlosE εγώ πάλι σκέφτηκα ποιητής παπαρας @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804223177404678144</field>
+		<field name="usr">masgr65</field>
+		<field name="txt">RT @giannischa1951: ΑΛΕΞΗΣ @atsipras ΣΤΗΝ ΚΟΥΒΑ
+#ΑΠΑΤΕΩΝΑΣ Απογείωσε την εξαπάτηση 
+https://t.co/W2jt7kLOjg https://t.co/AOcyajVOFV</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804227205500899333</field>
+		<field name="usr">ChatanogaWien2</field>
+		<field name="txt">@atsipras Ρανια...μαζευε καποτες απ τα λαθρο και κανε γαργαρες τα χυσα να πεις το &quot;ρ&quot; σαν τον Δημοσθενη</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804228282900238340</field>
+		<field name="usr">DimStu_</field>
+		<field name="txt">@atsipras  πολλές πλαστικές καρέκλες ρε φιλε ! Έπρεπε να βάλουν καρέκλα σκηνοθέτη, πιο elegant!!Φτωχομπινεδες! Δεν κέρασαν και πούρο!απαπαπα</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804230122995904512</field>
+		<field name="usr">giorgosvardavas</field>
+		<field name="txt">@atsipras      Τις επαναστάσεις δεν τις κάνουν οι πεινασμένοι, αλλά οι χορτάτοι που δεν έφαγαν τρεις μέρες.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804230439238037504</field>
+		<field name="usr">ZeroCoolGR</field>
+		<field name="txt">Κοίτα @atsipras @syriza_gr χωρίς παπάδες!! 
+
+#FidelCastro #Cuba https://t.co/qjQdDyXtIs</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804231901640818688</field>
+		<field name="usr">kostas_cotton</field>
+		<field name="txt">@atsipras Ξεκουμπισου όσο προλαβαίνεις. Ημιθανής θα φτάσεις στο ελικόπτερο απ τα κλωτσομπουνιδια που θα φας αλητηριε</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804232759162052608</field>
+		<field name="usr">ikanaky</field>
+		<field name="txt">@skaigr @kathimerini_gr @atsipras
+
+DECEMBER 1 THE INDEFATIGABLE LION OF BIAFRA GOES TO COURT https://t.co/mUvdW1cXSP https://t.co/dodOV9lvTh</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804235214130180097</field>
+		<field name="usr">aphorismoi</field>
+		<field name="txt">RT @irina99801: @atsipras ποιος σου είπε οτι θέλαμε να εκπροσωπηθούμε στην κηδεία ενός δικτάτορα που καταδίκασε ενα λαό στη φτώχεια στην πε…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804236627371552768</field>
+		<field name="usr">XaLaRa_Se_Lew</field>
+		<field name="txt">Τσογλανε @atsipras Η ΕΛΠΙΔΑ ΕΡΧΕΤΑΙ για τον εγκέφαλο σου https://t.co/fBL8TxDMZv</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804237429339262976</field>
+		<field name="usr">XaLaRa_Se_Lew</field>
+		<field name="txt">Τσογλανε @atsipras έρχονται επενδυτές με το τσουβάλι. Ετοιμασε τα σαλέ, μην μας ξεπαγιασουν https://t.co/29dK38GyRy</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804237655923916801</field>
+		<field name="usr">aphorismoi</field>
+		<field name="txt">Hey @atsipras do YOU have a voice? https://t.co/UoIGABH0U5</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804240694692954112</field>
+		<field name="usr">konkats90</field>
+		<field name="txt">@etoimo_toproino μας εχουν ρουφηξει το αιμα με τα μετρα κ τις φορολογιες&amp;έπρεπε να πάει στην Κούβα ο @atsipras για να δωσουμε άλλες 300.000</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804241839419260928</field>
+		<field name="usr">ysterografa</field>
+		<field name="txt">.@renadourou : Κρίση Δημοκρατίας και ταυτότητας στην Ευρώπη https://t.co/Lyh8KWmKTT #Ysterografa @atsipras @nikospappas16 @ziska81 @EEAthina</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804242766146342912</field>
+		<field name="usr">G0ULIDAKHS</field>
+		<field name="txt">RT @GreekScumbag: Σύντροφε Αλεξόβ @atsipras , δεν σε προλαβαίνω https://t.co/fuCF59NBSx</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804242837223145472</field>
+		<field name="usr">g_vangelis</field>
+		<field name="txt">RT @konmanol1: Κάποιος να ενημερώσει τον @atsipras ότι, το 1821 η Ελλάδα επαναστάτησε κατά ξένου κατακτητή ενώ η επανάσταση της Κούβας ήταν…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804243504738275328</field>
+		<field name="usr">eliaspapoulas</field>
+		<field name="txt">RT @DemocracyTrue: Ο @atsipras έφερε την Ελλάδα στον &quot;Τρίτο Δρόμο&quot; προς τον 
+&quot;Τρίτο Κόσμο&quot; μαζί με φασιστοειδή για να τιμήσουν τον δικτάτορ…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804244292579524609</field>
+		<field name="usr">tolisv</field>
+		<field name="txt">Να δεις που το τσογλανι @atsipras και η συμμορια του με τις μαλακιες για δηθεν διαπραγματευση ΠΑΛΙ θα γαμησουν την αγορα τα Χριστουγεννα</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804245184993071104</field>
+		<field name="usr">askourgias</field>
+		<field name="txt">1821= Εθνικη επανασταση ... Κουβα= κομμουνιστικη επανασταση =====&gt; @tsipras_eu @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804245387712270336</field>
+		<field name="usr">gewure</field>
+		<field name="txt">RT @teacherdude: &quot;Now is the winter of our discontent. Made glorious summer by @atsipras &#39;s visit to Havana&quot; #refugees #Greece https://t.co…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804245534445867008</field>
+		<field name="usr">koprotkin</field>
+		<field name="txt">Αυτο του επιτρέπει το δικαιολογημένο κόμπλεξ κατωτερότητας @atsipras @PrimeministerGR https://t.co/DakQfn7P2J</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804249968051712000</field>
+		<field name="usr">seed30_Greek</field>
+		<field name="txt">@_syntrofos_ ναι τα θαυμαζει. @MKatsiotis @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804250811278692352</field>
+		<field name="usr">SPothitos</field>
+		<field name="txt">RT @AlfredoSaltiel: Ο @atsipras θα πάει στην κηδεία του #FidelCastro ως @PrimeministerGR. Κατά την γνώμη σας η απόφαση αυτή εκπροσωπεί:</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804251439791013888</field>
+		<field name="usr">xenaki_sou</field>
+		<field name="txt">RT @_syntrofos_: Το Σύνταγμα της Κούβας (Άρθρα και Νόμοι).. Απλά φρίκη.. Ανατρίχιασα.. Σύντροφε @atsipras τα θαυμάζεις αυτά; https://t.co/X…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804251559211175936</field>
+		<field name="usr">OmadaLogikis</field>
+		<field name="txt">Αλέξη Τσίπρα…@aTsipras…ακολούθησε τον αριστερό δρόμο που χάραξες &amp; υλοποίησες και άσε το Λύκειο της Γκράβας να λέει… https://t.co/YHy3APb59p</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804252120551747584</field>
+		<field name="usr">OmadaLogikis</field>
+		<field name="txt">&quot;Ο ταλαντούχος πρωθυπουργός Αλέξης Τσίπρας…@aTsipras…&quot;
+Asta la siesta…Viva la siesta siembre…https://t.co/PYJcptkCb9 https://t.co/51kdUJKUwI</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804253048453427200</field>
+		<field name="usr">GreekScumbag</field>
+		<field name="txt">RT @_syntrofos_: Σ/φε @atsipras στην Κούβα έχουν 50 χρόνια χωρίς εκλογές. Κι εσύ τους θαυμάζεις, σωστά; Γιατί δε το εφαρμόζεις κι εδώ τότε;…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804253251604455424</field>
+		<field name="usr">vervox47</field>
+		<field name="txt">Ο @panosKammenos &#39;&#39;εδωσε&#39;&#39; την άδεια για να πάει @atsipras στη Κούβα για να κάνει τη &#39;&#39;Επανάσταση του 1821&#39;&#39;...</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804253910391263232</field>
+		<field name="usr">EKardoula</field>
+		<field name="txt">Δεν είναι ανάγκη να επιστρέψεις. Κάτσε εκεί, στην Πατρίδα σου την Κούβα ...Αλητάμπουρα!</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804255915700551680</field>
+		<field name="usr">EKardoula</field>
+		<field name="txt">Αυτός δεν είναι απλώς γίδι. Είναι Τράγος! 
+@atsipras  https://t.co/yNlil3eZWD</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804257647734194176</field>
+		<field name="usr">EpsllonRedCross</field>
+		<field name="txt">RT @tolisv: Να δεις που το τσογλανι @atsipras και η συμμορια του με τις μαλακιες για δηθεν διαπραγματευση ΠΑΛΙ θα γαμησουν την αγορα τα Χρι…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804258214724456448</field>
+		<field name="usr">GreekScumbag</field>
+		<field name="txt">Αλεξη @atsipras , οι επαναστάσεις δεν γίνονται σε 4 χρόνια. Καν’το όπως ο Φιντέλ &amp; κατήργησε τις εκλογές. Hasta la victoria siempre !!</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804258880628944896</field>
+		<field name="usr">Angelakard</field>
+		<field name="txt">RT @arkoudos: Καλοί οι επικήδειοι για τον #FidelCastro @atsipras - μην χρειαστούμε όμως και για τους φτωχούς συμπολίτες μας τον χειμώνα...…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804258904532254720</field>
+		<field name="usr">Angelakard</field>
+		<field name="txt">RT @platitudinous: Καλά μην τρελαίνεσαι. Εσένα δεν σε ενέπνευσε και πολύ. @atsipras https://t.co/n4b0qIpL6t</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804261594599485440</field>
+		<field name="usr">eliaspapoulas</field>
+		<field name="txt">RT @Hniohos: @atsipras δεν θέλω να με εκπροσωπείς στην κηδείας ένός χυδαίου δικτάτορα που οδήγησε τον λαό του στη φτώχεια και την εξαθλίωση…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804262741280256001</field>
+		<field name="usr">gsiderakisart</field>
+		<field name="txt">@atsipras Το ότι εσύ είσαι ένας από τους μεγαλύτερους απατεώνες (κατά Μπαμπινιώτη και &quot;ΑΥΤΟΣ ΠΟΥ ΞΕΓΕΛΑΕΙ ΓΙΑ ΙΔΙΟΝ ΟΦΕΛΟΣ&quot;) δε σ&#39; απασχολεί</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804262875447562240</field>
+		<field name="usr">DEBOLOTO1</field>
+		<field name="txt">@vtiga @atsipras Ούτε ο Κορεάτης δεν πήγε στον Κάστρο. Φαντάσου ρεζιλίκι για εμάς.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804263315845378048</field>
+		<field name="usr">NopYockey</field>
+		<field name="txt">@atsipras #Επαναστάτης χωρις Ενσημα ! Πες αλεύρι ... #tsipras_at_funeral #KaneMouLike  #syriza_xeftiles https://t.co/kONS4dhfFQ</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804264105188200448</field>
+		<field name="usr">ellinoamartolos</field>
+		<field name="txt">Θα καθίσετε @atsipras κ @kmitsotakis έστω για μια φορά να πάρετε κοινές κ δυςκολες αποφάσεις για τη φοροδιαφυγή; #Ιδεολογίες_και_μπούρδες</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804265729197539328</field>
+		<field name="usr">fp1515</field>
+		<field name="txt">RT @TStamatakis: Το κακό δεν είναι που πήγε ο @atsipras στην κηδεία.Το κακό είναι που κανένας άλλος δεν ένιωσε την ανάγκη να πάει #tsipras_…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804266122203762688</field>
+		<field name="usr">AnnaKalog</field>
+		<field name="txt">@vervox47 @PanosKammenos Ο @atsipras στην Κούβα κι ο #kmitsotakis στη Βουλγαρία να δει τέως πρωθυπουργούς και τέως… https://t.co/ZEVRc0xCcH</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804267709294931968</field>
+		<field name="usr">psoliagkos_</field>
+		<field name="txt">RT @gidolaos: @GreekScumbag #fixed RT@atsipras Tο τελευταίο αντίο στον Κιμ. Εκατ. χιλιάδες κόσμου σε μία από τις πολυπληθέστερες συγκεντρώσ…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804269186939817984</field>
+		<field name="usr">PrincipessaRoz</field>
+		<field name="txt">@atsipras Το έχουμε δει το ρολόι και τα ξενόκουμπα, μάνα μου. Κάθισε σαν άνθρωπος, λοιπόν! https://t.co/CJmlX4n4PD</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804269385473028096</field>
+		<field name="usr">apneagr</field>
+		<field name="txt">θεωρώ τον @atsipras πολιτικό απατεώνα αλλά οι φιλελέδες θέλουν να με κάνουν να τον συμπαθήσω με το ζόρι</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804270075280785408</field>
+		<field name="usr">vervox47</field>
+		<field name="txt">βρε μπας και ο @atsipras θαύμαζε τον Φιντέλ για τις 35000 γκόμενες που είχε ?</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804271017493405696</field>
+		<field name="usr">eliaspapoulas</field>
+		<field name="txt">RT @IKOKKINAKOU: Ξερεις τιναι να σ επιβραβευσει δια χειραψιας ο ιδιος ο Μαδουρο? Κανα μηνα δε θα πλυθει ο @atsipras #tsipras_at_funeral</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804272256373420032</field>
+		<field name="usr">apostolosa62</field>
+		<field name="txt">RT @apneagr: θεωρώ τον @atsipras πολιτικό απατεώνα αλλά οι φιλελέδες θέλουν να με κάνουν να τον συμπαθήσω με το ζόρι</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804273541776572416</field>
+		<field name="usr">reportergr</field>
+		<field name="txt">.@MevlutCavusoglu Τα Ίμια είναι τουρκικό έδαφος! https://t.co/VECFo41fym @RT_Erdogan @atsipras @NikosKotzias https://t.co/LQd977Z6a6</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804274407984271360</field>
+		<field name="usr">malaviti</field>
+		<field name="txt">Ο @atsipras του ΣΥΡΙΖΑ θυμίζει τον δήμαρχο στο &quot;η κυρά μας η μαμή&quot;. Ποναει κ θελει τη βοήθεια κ της μαμής (Κάστρο)… https://t.co/vwZTMIyRyr</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804276264865558528</field>
+		<field name="usr">ysterografa</field>
+		<field name="txt">.@PrimeministerGR Ο Τζανακόπουλος… χαρίζει το επόμενο Μνημόνιο στη ΝΔ https://t.co/dKYu9kMI8U … #Ysterografa @atsipras @kmitsotakis</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804276335359250432</field>
+		<field name="usr">tinyhippo_</field>
+		<field name="txt">RT @AGios4: Την Κούβα που επισκέπτεται,
+κακό δεν μου θυμίζει:
+-κακό για μένα σύντεκνοι-,
+είναι πως θα γυρίσει!
+@atsipras #syriza_xeftiles</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804280115844775936</field>
+		<field name="usr">PappasXA</field>
+		<field name="txt">Ο @atsipras  έχει ξεφύγει εντελώς… Συνέκρινε την Επανάσταση του 1821 με την «επανάσταση του Κάστρο»! https://t.co/HARKWoDDBH</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804280118537490432</field>
+		<field name="usr">PappasXA</field>
+		<field name="txt">Χλιαρές επευφημίες απέσπασε ο @atsipras από το πλήθος στην εμβληματική Πλατεία της Επανάστασης στην Αβάνα...τσάμπα… https://t.co/4rp5PIMO1A</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804281400195162112</field>
+		<field name="usr">xbilli11</field>
+		<field name="txt">RT @OmadaLogikis: Αλέξη Τσίπρα…@aTsipras…ακολούθησε τον αριστερό δρόμο που χάραξες &amp; υλοποίησες και άσε το Λύκειο της Γκράβας να λέει… http…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804282275902947333</field>
+		<field name="usr">th_vergos</field>
+		<field name="txt">Ρε @Dora_Bakoyannis τι λέει εδώ ο Πρόεδρος του ΔΗΚΟ; Τελικά ο @NikosKotzias και ο @atsipras βοηθάνε ή όχι; Για πες;… https://t.co/8L7vOHppIS</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804282515519373312</field>
+		<field name="usr">Bati_Goal77</field>
+		<field name="txt">RT @kwstakisea: @atsipras «Έλα να νιώσεις πώς είν&#39; η ζωή, μέσα στα μνημόνια μέχρι το πρωί!» #σύριζα #ανέλ #τσίπρας https://t.co/nWfApDFpoO</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804282718171332608</field>
+		<field name="usr">ikanaky</field>
+		<field name="txt">@atsipras Buhari has indirectly warned judiciary not to release him everybody must tweet and https://t.co/735wwv8b58 https://t.co/i4Xm8VN5u5</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804282939479617536</field>
+		<field name="usr">ysterografa</field>
+		<field name="txt">.@PrimeministerGR Παρέμβαση @nikospappas16 για τη διαφήμιση στα κανάλια https://t.co/x8A69vuVHq #Ysterografa @atsipras @LKretsos @EEAthina</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804283030839984128</field>
+		<field name="usr">AntennaNews</field>
+		<field name="txt">Συνομιλία Τσίπρα – Μέρκελ για την επιθετική ρητορική της Τουρκίας
+https://t.co/DGCz6KFdMr @atsipras @RT_Erdogan #merkel</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804284027494690816</field>
+		<field name="usr">ArgiriouNik</field>
+		<field name="txt">@SpyrosBlatsios @ougrinisfanis @atsipras oi 12 theoi tou olympou den voithisan ....</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804284047157592064</field>
+		<field name="usr">Sa1nt3</field>
+		<field name="txt">@atsipras ΜΟΝΟ ΕΣΥ ΠΗΓΕΣ ΑΠΟ ΤΗΝ ΕΥΡΩΠΗ.... ΚΟΥΚΟΣ ΜΟΝΟΣ !!!</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804285788527665152</field>
+		<field name="usr">RobertoChaidis</field>
+		<field name="txt">@PappasXA @atsipras XΑΙΡΕΤΑΙ ΜΑΤΩΜΕΝΑ ΧΕΡΙΑ....</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804286415395848192</field>
+		<field name="usr">dimsimitian</field>
+		<field name="txt">RT @NopYockey: @atsipras #Επαναστάτης χωρις Ενσημα ! Πες αλεύρι ... #tsipras_at_funeral #KaneMouLike  #syriza_xeftiles https://t.co/kONS4dh…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804286821660262400</field>
+		<field name="usr">vas_fas</field>
+		<field name="txt">Τι καθόμαστε και σκάμε για τα Ίμια και τις δηλώσεις Τσαβούσογλου ε @PanosKammenos ; Ο @atsipras είχε πει ότι &quot;δεν υ… https://t.co/vACRHrF57t</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804287176380977152</field>
+		<field name="usr">panospaleologo</field>
+		<field name="txt">@ipopgr @NikNikolopoulos @velopky @Makeleio_gr και τι απαντησε @atsipras στους Τουρκους? Δεν υπαρχουν σηνορα? Ολη Τ… https://t.co/27TByuBxK7</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804289481440448512</field>
+		<field name="usr">ProD_eActions</field>
+		<field name="txt">@atsipras Ξύπνα ρεεεεεεεεεεεεεε!!! Τι κάνει ο ΤΟΥΡΚΟΣ ρεεεεεεεεεεεεε!!! ΞΥΠΝΑ ΓΑΜΩ ΤΟ ΔΙΑΛΟ ΣΟΥ......</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804289549576839168</field>
+		<field name="usr">ProD_eActions</field>
+		<field name="txt">@PrimeministerGR @atsipras Ξύπνα ρεεεεεεεεεεεεεε!!! Τι κάνει ο ΤΟΥΡΚΟΣ ρεεεεεεεεεεεεε!!! ΞΥΠΝΑ ΓΑΜΩ ΤΟ ΔΙΑΛΟ ΣΟΥ......</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804290124930514944</field>
+		<field name="usr">alextiligadas</field>
+		<field name="txt">@atsipras @PrimeministerGR @Tsipras_int2 Will you inform us about your vacation cost in Cuba???? And also the gains from you trip there??</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804290263908843520</field>
+		<field name="usr">antitapantaola</field>
+		<field name="txt">Υπερβάλλεις αλλα είναι γνωστό ότι αν ο @atsipras δεν πήγαινε Κούβα, θα μηδενίζονταν το χρέος κ θα είχαμε κ ενα τρις… https://t.co/r6kPmVVJQx</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804290423594356736</field>
+		<field name="usr">koulnek</field>
+		<field name="txt">RT @antitapantaola: Υπερβάλλεις αλλα είναι γνωστό ότι αν ο @atsipras δεν πήγαινε Κούβα, θα μηδενίζονταν το χρέος κ θα είχαμε κ ενα τρις για…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804290480792072192</field>
+		<field name="usr">katsiki_pardalo</field>
+		<field name="txt">RT @giannischa1951: Μετά και απ αυτή την καπηλεία
+να είστε σίγουροι
+πως ο @atsipras θα μας φέρει
+και τον Κοκό Γλύκξουμπουρκ https://t.co/Qw…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804294188435120128</field>
+		<field name="usr">Psychompampa</field>
+		<field name="txt">@atsipras @syriza_gr Ζητω και ο Παπαδοπουλος</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804295382561865728</field>
+		<field name="usr">IoannouKleo</field>
+		<field name="txt">Εκεί έχουμε φτάσει! Λόγω της ανικανότητας τους.
+@atsipras @nikospappas16 @olgagerovasili...όλοι νοιάζονται να βολέψ… https://t.co/Nbt0mnvidZ</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804297167464697857</field>
+		<field name="usr">NeaPoreia_org</field>
+		<field name="txt">ο κύριος @atsipras συνεχίζει να μας βομβαρδίζει με τα επιτεύγματα και τις επιλογές του ...
+#castrofidel #tsipras https://t.co/LOIzbUYb88</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804297511770980352</field>
+		<field name="usr">nefeli_talevi</field>
+		<field name="txt">Ξεκάθαρες οι ελληνικές θέσεις που βοηθούν την Κύπρο να απαλλαγεί από την τουρκική κατοχή @NicholasPapadop… https://t.co/K7sx6Wc6yL</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804297814142500864</field>
+		<field name="usr">foivosloxias</field>
+		<field name="txt">@atsipras 
+Μέχρι την παντοτινή νίκη των Πολυεθνικών! https://t.co/UN3qOdzHsa</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804298755319234560</field>
+		<field name="usr">JULIA_MANI</field>
+		<field name="txt">RT @XaLaRa_Se_Lew: Τσογλανε @atsipras έρχονται επενδυτές με το τσουβάλι. Ετοιμασε τα σαλέ, μην μας ξεπαγιασουν https://t.co/29dK38GyRy</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804300315730251776</field>
+		<field name="usr">aektzougiapanta</field>
+		<field name="txt">@atsipras και ο μπαφος συνεχίζεται</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804302321169506304</field>
+		<field name="usr">maroulitaD</field>
+		<field name="txt">@atsipras τι τον αναπολείς? Ας παραδειγματιζοσουν.. διπροσωπε..μας εδωσες ελπίδα και μας τσακισες με το χειροτερο τροπο..</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804302762867453952</field>
+		<field name="usr">simosmegalos</field>
+		<field name="txt">Ανοιχτή επιστολή προς τον υπουργό παιδείας https://t.co/AgXcbAK5K2 #zouraris @atsipras @GreeceMFA @cymoec… https://t.co/d1hmtpCmva</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804308754003062784</field>
+		<field name="usr">th_vergos</field>
+		<field name="txt">22.900 ευρώ το κόστος του ταξιδιού στην Κούβα. Κρίμα που δεν μπορεί  ο @atsipras να μηνύσει ΔΟΛ κ #skai_xeftiles για τα νούμερα που έδιναν.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804310893345570816</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @aektzougiapanta: @atsipras και ο μπαφος συνεχίζεται</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804310920319160320</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @koulasar: @atsipras and what about all those Cubans celebrating his death in US? There is a reason for that &amp; Fidel was the cause!</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804311016771387392</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @AntonopL: @atsipras Έκθεση πέμπτης δημοτικού. Μετρια.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804311084303794176</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @dipling7: @atsipras Αυτές τις τρίχες ο Καρανίκας ή ο Πολάκης τις γράφει ; αδύνατο - αδιανόητο ... άιντε- άιντε</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804311116008591360</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @o9s35cQFBAm0WhV: @atsipras Εδω ο κοσμος καιγεται και ο Αλεξης το χαβα του ασε μας ανθρωπε μου .</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804311200691605504</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @argirisver: @atsipras δέν θά σέ ξεχάσει ό λαός τής Κούβας θά σέ βρεί μπροστά του.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804311235181375489</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @DeniMarFlora: @atsipras Σε αγαπώ γιατι επιβεβαιώνεις τον Αινσταιν. Όντως η ανθρώπινη βλακεία δεν εχει όρια...</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804311696282177537</field>
+		<field name="usr">DemocracyTrue</field>
+		<field name="txt">Αυτός που δημιούργησε το &quot;έμεινα ΠΑΥΛΟΠΟΥΛΟΣ&quot; θα &quot;απαντησει&quot; στις τουρκικές προκλήσεις! @atsipras @NikosKotzias… https://t.co/TnbhOhwJAL</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804311929967804417</field>
+		<field name="usr">censorcensorcen</field>
+		<field name="txt">RT @VassilisHalkias: @atsipras Εκεί έπρεπε να πάς σαν εκπρόσωπος του συριζα και ΟΧΙ των Ελλήνων τι φταίει μια ολόκληρη χώρα για τα δικά σου…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804312013216382976</field>
+		<field name="usr">ConstantineChr</field>
+		<field name="txt">RT @NickRomanos: Ποιά είναι η πιο επαναστατική, ελπιδοφόρα και αγωνιστική πράξη αυτοθυσίας του πρωθυπουργού @atsipras μέχρι σήμερα;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804313930826940416</field>
+		<field name="usr">DemocracyTrue</field>
+		<field name="txt">ο Παΐσιος ΖΕΙ &amp; ειναι ο
+Βασίλης Λεβέντης!
+@ProedrosEK
+Θα πάρει τη θέση του @PanosKammenos &amp; θα κυβερνήσει για πάντα… https://t.co/vC37ZxVFSS</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804315864300482560</field>
+		<field name="usr">DianeHowell11</field>
+		<field name="txt">@atsipras What are you hiding? https://t.co/cgZ0c0BiyG</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804317491640070145</field>
+		<field name="usr">SolomouG</field>
+		<field name="txt">Πολύ εποικοδομητική και ειλικρινής  συνάντηση @NicholasPapadop  με τον Έλληνα Πρωθυπουργό @atsipras https://t.co/oucsqIVgZn</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804317860281597952</field>
+		<field name="usr">Dim_Zaharakis</field>
+		<field name="txt">Βρήκα τι θα στείλω για δώρο στον @atsipras 
+
+#ChristmasGiftIdeas https://t.co/nXsDvrnI48</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804318209319043073</field>
+		<field name="usr">DemocracyTrue</field>
+		<field name="txt">Αξιολύπητοι δημόσιοι υπάλληλοι
+επιστρατεύουν &quot;φιλελευθερισμό&quot;
+για να ξεπλύνουν την παρουσία @atsipras στην κηδεία του δικτάτορα! #γλειψιμο</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804318486457679872</field>
+		<field name="usr">trompoukikwn</field>
+		<field name="txt">RT @Dim_Zaharakis: Βρήκα τι θα στείλω για δώρο στον @atsipras 
+
+#ChristmasGiftIdeas https://t.co/nXsDvrnI48</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804318657514008576</field>
+		<field name="usr">DemocracyTrue</field>
+		<field name="txt">Άλλωστε ο &quot;λόγος του συμβόλαιο&quot;, οπως και του @atsipras </field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804319322919333888</field>
+		<field name="usr">PRIFTISDIMITRIS</field>
+		<field name="txt">@DemocracyTrue @atsipras Μην ανησυχείτε, θα τα υπογράψουν όλα, έχουν κι άλλες 5θήμερες να κάνουν.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804319356733820928</field>
+		<field name="usr">FToula</field>
+		<field name="txt">RT @DemocracyTrue: Αξιολύπητοι δημόσιοι υπάλληλοι
+επιστρατεύουν &quot;φιλελευθερισμό&quot;
+για να ξεπλύνουν την παρουσία @atsipras στην κηδεία του δι…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804319904467914752</field>
+		<field name="usr">PRIFTISDIMITRIS</field>
+		<field name="txt">@DemocracyTrue @atsipras Μήν παιρνεις όρκο Τζανακόπουλε</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804320117022687232</field>
+		<field name="usr">tronik11</field>
+		<field name="txt">Αυτα που κατηγορουσε ο @atsipras τον Σαμαρα σημερα τα υπερασπιζεται.Τελικα στραβα αρμενιζουμε και θα ξεμεινουμε απο καυσιμα λογω ΟΠΕΚ</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804320358904037377</field>
+		<field name="usr">panagrod1</field>
+		<field name="txt">RT @th_vergos: 22.900 ευρώ το κόστος του ταξιδιού στην Κούβα. Κρίμα που δεν μπορεί  ο @atsipras να μηνύσει ΔΟΛ κ #skai_xeftiles για τα νούμ…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804321031620063232</field>
+		<field name="usr">sinefo</field>
+		<field name="txt">Δεν φταίτε εσείς κ.@atsipras ..εσείς αναλάβατε μια υπηρεσία από εξωγενείς παράγοντες και τα καταφέρνετε τέλεια .Η ευθύνη είναι όλη δική μας!</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804321228433584129</field>
+		<field name="usr">yiotou74</field>
+		<field name="txt">RT @SolomouG: Πολύ εποικοδομητική και ειλικρινής  συνάντηση @NicholasPapadop  με τον Έλληνα Πρωθυπουργό @atsipras https://t.co/oucsqIVgZn</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804323400340701184</field>
+		<field name="usr">nkacht</field>
+		<field name="txt">@atsipras @rania_sv  ωραίο το ταξιδάκι σας.... εις υγείαν των κορόιδων...
+https://t.co/AsQGG1PNnB</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804325095892250626</field>
+		<field name="usr">Ainhoa0604</field>
+		<field name="txt">RT @JoseCarlosRguez: En #TributoAFidel Premier de Grecia @atsipras : despedimos a un símbolo de la solidaridad y la resistencia, Fidel Cast…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804326353071996930</field>
+		<field name="usr">Dimitris_g21</field>
+		<field name="txt">RT @AdonisGeorgiadi: Ευτυχώς που υπάρχουν και τέτοιοι άνθρωποι διότι θα μας τρελάνουν στο τέλος..ο δε @atsipras πάει Κούβα μην χάσει https:…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804327633794322436</field>
+		<field name="usr">axnisti_kourada</field>
+		<field name="txt">@atsipras Ψόφα όσο προλαβαίνεις</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804327763511570432</field>
+		<field name="usr">ToninoFistikko</field>
+		<field name="txt">@atsipras Έννοια σου, το 4ο μνημόνιο με τις περικοπές σε μισθούς και συντάξεις και τα εργασιακά θα μας φέρουν πιο κοντά στην Κούβα</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804328058417283072</field>
+		<field name="usr">elsaki1980</field>
+		<field name="txt">RT @edimopoulou2014: O #Ερντογάν εξευτέλισε τον @atsipras -ικέτη στον κατακτητή.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804328106421002240</field>
+		<field name="usr">axnisti_kourada</field>
+		<field name="txt">@atsipras Που να δεις σε λίγο καιρό πόσοι θα σε κυνηγάνε. Πες του χοντρού να σου ετοιμάσει ελικόπτερο</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804328541131251712</field>
+		<field name="usr">kanekos69</field>
+		<field name="txt">Σύντροφε @atsipras εσύ που πηγες και Κουβα, μπορεί ένας παπάς να διδάξει μικρά παιδιά, καλόγερος να τα εξομολογήσει;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804330093535432704</field>
+		<field name="usr">vassilisk1</field>
+		<field name="txt">RT @kanekos69: Σύντροφε @atsipras εσύ που πηγες και Κουβα, μπορεί ένας παπάς να διδάξει μικρά παιδιά, καλόγερος να τα εξομολογήσει;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804330143284129792</field>
+		<field name="usr">astlak_irpsa</field>
+		<field name="txt">@atsipras έλεος ρε μάγκα μου... παίξε μπάλα εκεί που πρέπει γιατί έχει στουμπώσει ο κώλος μας από τα μακαρόνια</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804330494196387840</field>
+		<field name="usr">Constantinos_Ep</field>
+		<field name="txt">Ο υποτακτικος @atsipras πηρε τηλέφωνο την madam #Merkel να κανει παράπονα για το καλύτερο θετό παιδί της Γερμανιας,τον Τούρκο  #erdogan</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804331050461708288</field>
+		<field name="usr">peristeraRa</field>
+		<field name="txt">Go back Madame Merkel Ande  go back @atsipras https://t.co/yfwsZsTvz4</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804332709027999744</field>
+		<field name="usr">thatrelathw</field>
+		<field name="txt">RT @VassilisHalkias: @atsipras φιντελ ο αιμοσταγής δικτάτορας 50 χρόνια χωρίς εκλογές σα δε ντρέπεσαι που το υπερηφανεύσε κιόλας https://t.…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804332776816254976</field>
+		<field name="usr">reportergr</field>
+		<field name="txt">Το... τιμολόγιο του ταξιδιού του @atsipras στην Κούβα https://t.co/fplFCJ8mPm @PrimeministerGR https://t.co/CZLSXtjdMa</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804334429485338624</field>
+		<field name="usr">elsaki1980</field>
+		<field name="txt">RT @RobertoChaidis: @PappasXA @atsipras XΑΙΡΕΤΑΙ ΜΑΤΩΜΕΝΑ ΧΕΡΙΑ....</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804334442303078400</field>
+		<field name="usr">elsaki1980</field>
+		<field name="txt">RT @PappasXA: Χλιαρές επευφημίες απέσπασε ο @atsipras από το πλήθος στην εμβληματική Πλατεία της Επανάστασης στην Αβάνα...τσάμπα τα χιλιόμε…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804335926029721600</field>
+		<field name="usr">marinanikolaou4</field>
+		<field name="txt">Δε μπορείς να είσαι και με τον Κάστρο και με τον Καμμένο. Πρέπει να διαλέξεις πλευρά @atsipras #topotami #ert3</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804340691124060164</field>
+		<field name="usr">alexiadiakatou</field>
+		<field name="txt">RT @atsipras: Αποχαιρετούμε σήμερα ένα παγκόσμιο σύμβολο αγώνα και αντίστασης που με το παράδειγμά του ενέπνευσε τους αγώνες των λαών σε ολ…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804341100001497093</field>
+		<field name="usr">lnflational</field>
+		<field name="txt">@atsipras ο διαλεκτικος υλισμος δεν αποδεχεται τετοιες αϋλες αναλυσεις για ψυχες και λοιπες ιδεαλιστικες αστικες αναλυσεις. μας μπερδευεις</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804342606268366848</field>
+		<field name="usr">thaka52</field>
+		<field name="txt">Στο Μαδουρο, στο Μαδούρο Αλέξη @atsipras . Εκεί θα βρεις αποκούμπι λεβέντη μου. Αν ήταν για σένα μονο θα σου λεγα:… https://t.co/bJQFRQUVE5</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804344222442786817</field>
+		<field name="usr">LALAKISIMPORT</field>
+		<field name="txt">Φήμες που θέλουν τον Φιντελ να μην έκανε ποτέ την επανάσταση αν ήξερε ότι στον επικήδειό του θα μίλαγε ο @atsipras  δεν είναι εξακριβωμένες</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804344335911288832</field>
+		<field name="usr">LymperiO</field>
+		<field name="txt">RT @peristeraRa: Go back Madame Merkel Ande  go back @atsipras https://t.co/yfwsZsTvz4</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804344777479221248</field>
+		<field name="usr">dinosrigas</field>
+		<field name="txt">@atsipras come στο school to see τη γλύκα στα eyes των parents των μαθητών που τα φέρνουν το πρωί.Ο Υφ. Παιδείας θα σε αποκαλούσε κ &quot;μαλάκα&quot;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804345419367124992</field>
+		<field name="usr">vangelis_sanis</field>
+		<field name="txt">@atsipras Μικρέ.. Ειχες την ευκαιρία να γίνεις ήρωας στούς Ελληνες κ καταφερες  σε 1 χρόνο να σε φτηνουν όλοι . Μπράβο.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351066036912129</field>
+		<field name="usr">j_kritikos</field>
+		<field name="txt">RT @vozemberg: Σύγκριση απο @atsipras τ επανάςταςης του Κάςτρο με τους αγώνες των προγόνων μας του 1821. Ντροπή!</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351245322424321</field>
+		<field name="usr">InsdataInter</field>
+		<field name="txt">RT @atsipras: Ήταν μεγάλη τιμή η συμμετοχή μου σε μια τόσο ιστορική στιγμή, εκπροσωπώντας τον ελληνικό λαό. 1/2 https://t.co/eiAyrRKPWl</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351277266305024</field>
+		<field name="usr">InsdataInter</field>
+		<field name="txt">RT @atsipras: Η μάχη για τον κοινωνικό μετασχηματισμό είναι διαρκής κι απαιτεί θυσίες. Και εμείς από την Ελλάδα, δίνουμε τον δικό μας αγώνα…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351311873540096</field>
+		<field name="usr">InsdataInter</field>
+		<field name="txt">RT @atsipras: Να βάλουμε τα θεμέλια για τον μεγάλο μετασχηματισμό προς όφελος της κοινωνικής πλειοψηφίας και όχι των ολιγαρχικών συμφερόντω…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351333490950144</field>
+		<field name="usr">InsdataInter</field>
+		<field name="txt">RT @atsipras: Έχουμε την αποφασιστικότητα να οδηγήσουμε την χώρα στην έξοδο από την κρίση και να επουλώσουμε τις πληγές της κοινωνίας. (1/2…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351370983800832</field>
+		<field name="usr">InsdataInter</field>
+		<field name="txt">RT @atsipras: Οι αγώνες για Δημοκρατία είναι πάντα και αγώνες για ελευθερία, αξιοπρέπεια, δικαιοσύνη, διαφάνεια, κοιν. δικαιώματα. https://…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351394178330624</field>
+		<field name="usr">InsdataInter</field>
+		<field name="txt">RT @atsipras: Ο κόσμος μπορεί προχωρήσει προς το μέλλον μόνο με περισσότερη Δημοκρατία, αλληλεγγύη, δικαιοσύνη. Το αποδεικνύουν οι αγώνες τ…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351450499452928</field>
+		<field name="usr">InsdataInter</field>
+		<field name="txt">RT @atsipras: Η Ελλάδα και ο ελληνικός λαός έχει παγκοσμίως γίνει συνώνυμο της ανθρωπιάς και της αλληλεγγύης. Θα συνεχίσουμε σε αυτόν τον δ…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804351456161759232</field>
+		<field name="usr">skata_sth_mourh</field>
+		<field name="txt">O #Στραματσονι έφαγε φάπες από παντού, δεν αποκλείστηκε μονο από τα χιόνια και παραιτήθηκε... Ο @atsipras γτ δεν παραδειγματίζετε?</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804353055978356744</field>
+		<field name="usr">zuridion</field>
+		<field name="txt">Μπορείς να συγκυβερνάς με έναν Κατσίκη που ξερνάει ομοφοβία από το βήμα της βουλής; Δεν ξέρω, ρωτάω. @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804356535447154690</field>
+		<field name="usr">kyr_AenaoS</field>
+		<field name="txt">@zuridion μην του χαλας το βεϊκέισο του ανθρώπου @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804357130648244226</field>
+		<field name="usr">rubiodelpozo</field>
+		<field name="txt">RT @rubiodelpozo: </field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804357179256045568</field>
+		<field name="usr">AntennaNews</field>
+		<field name="txt">Συνάντηση Τσίπρα με τον Πατριάρχη Αλεξάνδρειας https://t.co/A9uWrqhhcE via @AntennaNews @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804357927503065089</field>
+		<field name="usr">nikglykos</field>
+		<field name="txt">Όσο ο @atsipras απαξιώνεται με λάθος επιλογές,ο αντ αυτού παίζειε τους θεσμούς.. https://t.co/hxRmYil9Ti</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804359803514552320</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @vkp_gr: @atsipras Ναι. Βρίσκεται στη Δύναμη κάθε Φασίστα/Δικτάτορα που διεκδικεί την εξουσία - επί πτωμάτων - για να μην ζει στην καθημ…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804359829091450880</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @kanekos69: ειναι αδιανοητο κι ανοητο να παριστανει ο @atsipras πως παλευει και διεκδικει... @rania_sv</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804359852327833600</field>
+		<field name="usr">EMAS1972</field>
+		<field name="txt">RT @irinipaliou: @kanekos69 @atsipras @rania_sv μα πορκουά....αφού παριστάνει τον αριστερό με πολύ μεγάλη επιτυχία...σαν τον Κατρούγκαλο έν…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804360193328955392</field>
+		<field name="usr">konmanol1</field>
+		<field name="txt">Έχει η Αλγερία πόλεμο ρε γαμώτο; Γιατί τους κρατάτε και δεν τους διαολοστέλνετε μωρέ; @syriza_gr @atsipras https://t.co/1PK8xZTZU7</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804361349472120832</field>
+		<field name="usr">Afatos1968</field>
+		<field name="txt">RT @nastypit: @atsipras  ψοφο σε ολους τους Δικτατορες σκατα στον ταφο του Καστρο Εδω χανουμε την ελλαδα και το μουνι χτενιζεται,Ποτε ξανα…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804361390265929729</field>
+		<field name="usr">Afatos1968</field>
+		<field name="txt">RT @IosifAvramoglou: @atsipras @syriza_gr https://t.co/H1y6zaMd4Q</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804361563159269376</field>
+		<field name="usr">ftoovaskano</field>
+		<field name="txt">η @Dora_Bakoyannis κ το ταξιδάκι της στις ΗΠΑ.
+το παρκάρω για όταν ξαναδείτε τουιτ για το κόστος ταξιδιού @atsipras… https://t.co/1PCOC91Dja</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804361647892680704</field>
+		<field name="usr">Afatos1968</field>
+		<field name="txt">Αυτά κι άλλα πολλά παράγωγα της επιστημονικοφανοϋς Μαρξικής μπαρουφολογίας @gpantakis!
+@atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804361791035871232</field>
+		<field name="usr">Afatos1968</field>
+		<field name="txt">&amp; φαίνεται το τσουτσουνάκι του @TaxidiaraPsyxi 
+
+@atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804362492751265793</field>
+		<field name="usr">Afatos1968</field>
+		<field name="txt">RT @98stayros: @atsipras βλακα σε πειρε χαμπάρι χα χα χα χα χα https://t.co/AwJuw5tyRe</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804362664780713984</field>
+		<field name="usr">Afatos1968</field>
+		<field name="txt">Σιγά μην τους αφήσουμε
+ @Rocket_Lisa @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804362818938171393</field>
+		<field name="usr">Afatos1968</field>
+		<field name="txt">RT @lnflational: @atsipras ο διαλεκτικος υλισμος δεν αποδεχεται τετοιες αϋλες αναλυσεις για ψυχες και λοιπες ιδεαλιστικες αστικες αναλυσεις…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804362862592278528</field>
+		<field name="usr">petros</field>
+		<field name="txt">@atsipras μακάρι να ήταν το τελευταίο αντίο, αλλά δυστυχώς θα ταλαιπωρεί την Κούβα για πολύ καιρό ακόμα.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804366256853880832</field>
+		<field name="usr">anny_v10</field>
+		<field name="txt">@ftoovaskano Δεν εχουν μαθει πως στο σπιτι του κρεμασμενου δε μιλανε για σκοινι.@Dora_Bakoyannis @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804367221288005633</field>
+		<field name="usr">ftoovaskano</field>
+		<field name="txt">RT @anny_v10: @ftoovaskano Δεν εχουν μαθει πως στο σπιτι του κρεμασμενου δε μιλανε για σκοινι.@Dora_Bakoyannis @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804368300608208896</field>
+		<field name="usr">oscar_sdb</field>
+		<field name="txt">RT @ftoovaskano: η @Dora_Bakoyannis κ το ταξιδάκι της στις ΗΠΑ.
+το παρκάρω για όταν ξαναδείτε τουιτ για το κόστος ταξιδιού @atsipras στην Κ…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804370916876713984</field>
+		<field name="usr">madusrkamal</field>
+		<field name="txt">RT @Granma_Digital: @atsipras: «#FidelCastro convirtió a #Cuba en un símbolo mundial de resistencia» #HastaSiempreComandante https://t.co/M…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
 		<field name="id">804371145550139396</field>
 		<field name="usr">PrimeministerGR</field>
 		<field name="txt">Η απώλεια μιας εργαζόμενης μητέρας κατά το σημερινό τραγικό συμβάν στην Πλατεία Βικτωρίας μας προκαλεί οδύνη. (1/2)</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804371295043485696</field>
+		<field name="usr">aritoni</field>
+		<field name="txt">@atsipras στην Βόρεια Κορεα να δεις συγκεντρώσεις και κλάματα όταν έχει πυρετό ο σύντροφός Κιμ.</field>
 		<field name="tweetDate">2016-12-01</field>
 		<field name="hashtag">@PrimeministerGR</field>
 	</row>
@@ -270,9 +1816,455 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	</row>
 
 	<row>
+		<field name="id">804371829364289536</field>
+		<field name="usr">ntiva12</field>
+		<field name="txt">RT @kanekos69: ΕΣΥ ΤΟ ΚΑΝΕΙΣ ΜΟΝΟ 3 ΜΗΝΕΣ... @atsipras Παριστάνετε τους αντιμνημονιακούς εσείς που πέντε χρόνια υπογράφατε ό,τι σας έδιναν…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804375187135283200</field>
+		<field name="usr">TheBard_Gr</field>
+		<field name="txt">Ο @atsipras με Φιντέλ,παθαίνει ότι κ εγώ με τον Άγιο Βασίλη, βλέπω Χριστούγεννα και ξεχνάω ότι είναι πρόμο της Coca-Cola #tsipras_at_funeral</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804376135895158784</field>
+		<field name="usr">stam_vrachnas</field>
+		<field name="txt">RT @atsipras: Ο Φιντέλ Κάστρο θα βρίσκεται στη δύναμη όσων παλεύουν με πάθος για να διεκδικήσουν το αδύνατο, προκειμένου να πάψουν να ζουν…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804376226228039681</field>
+		<field name="usr">akislordos</field>
+		<field name="txt">Ποιά Κ.Δ θα συμμετέχει στη πολυμερή κκ @atsipras @NikosKotzias ?Με Σύνταγμα 1960 η 1964? Παρασύρεστε απο @NicholasPapadop?BE STATESMEN,THINK</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
 		<field name="id">804377082461638656</field>
 		<field name="usr">PrimeministerGR</field>
 		<field name="txt">Η Παγκόσμια Ημέρα κατά του AIDS μας θυμίζει πως η πολιτική της δημόσιας Υγείας πρέπει να παρέχεται καθολικά &amp; δωρεά… https://t.co/C51oenHqwJ</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804378229763096576</field>
+		<field name="usr">meligalise_it</field>
+		<field name="txt">Τα 3 του @atsipras θα πάρεις. https://t.co/rqYGOEKsRp</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804380492690817024</field>
+		<field name="usr">bestr84ward1</field>
+		<field name="txt">Τωρα σοβαρά το πρωτόκολλο στο Μαξίμου γιατί δε συμμαζεύει λιγο τον @tsipras_eu @atsipras ;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804382176355745793</field>
+		<field name="usr">drink5050</field>
+		<field name="txt">@atsipras Πατριώτη στην Βόρειο Κορέα θα πας για κανένα γάμο ή κακιά κηδεία; Όργιο είσαι ρε σαν τον Ανδρέα. Στη μαλ. πρώτος.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804382183901294593</field>
+		<field name="usr">toscaross</field>
+		<field name="txt">RT @atsipras: Χθες βράδυ στην Αβάνα, για το τελευταίο αντίο στον Φιντέλ. Εκατ. χιλιάδες κόσμου σε μία από τις πολυπληθέστερες συγκεντρώσεις…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804384280017338369</field>
+		<field name="usr">toscaross</field>
+		<field name="txt">@atsipras il tuo discorso per #Fidel passerà alla storia!#emozionanti le tue bellissime parole.Orgoglio per tutta l… https://t.co/V8vzJIszQU</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804385245558665216</field>
+		<field name="usr">toscaross</field>
+		<field name="txt">@atsipras Questo discorso emozionante per #Fidel  passerà alla storia! Onore di tutta la sinistra grazie #alexis tsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804385510034702336</field>
+		<field name="usr">1piede</field>
+		<field name="txt">RT @atsipras: Ο Φιντέλ θα βρίσκεται για πάντα στη φλόγα της αντίστασης των καταπιεσμένων που διεκδικούν την αξιοπρέπειά τους. https://t.co/…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804387867552256000</field>
+		<field name="usr">CubainKenya</field>
+		<field name="txt">RT @JoseCarlosRguez: En #TributoAFidel Premier d Grecia @atsipras : Fidel Castro convirtió a #Cuba en un símbolo mundial de resistencia. ht…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804387890570678272</field>
+		<field name="usr">AfroGrammeli</field>
+		<field name="txt">Αυτοί που για να μείνουν στην εξουσία κάνουν γαργάρα πιστοποιητικά σεξουαλικών φρονημάτων δεν είναι αριστεροί. Σωστά @atsipras ;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804392090692100096</field>
+		<field name="usr">Axl_W_Rose</field>
+		<field name="txt">RT @nikglykos: Όσο ο @atsipras απαξιώνεται με λάθος επιλογές,ο αντ αυτού παίζειε τους θεσμούς.. https://t.co/hxRmYil9Ti</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804394627289772034</field>
+		<field name="usr">gamaw_</field>
+		<field name="txt">@FantomaRimbaud @Gerogriniaris με τη ψηφο ομως του @AK7FZ και του @filokalia εγινε πρωτη φορα πρωθυπουργος ο… https://t.co/RfM4Xu46LA</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804394990998798336</field>
+		<field name="usr">Chchairop</field>
+		<field name="txt">@zuridion @atsipras μπορεις και με τον διάολο αμα εισαι βολεμένος κρίμα πάντως για τα μορφωματα που ψηφιστηκαν</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804396367053463552</field>
+		<field name="usr">AK7FZ</field>
+		<field name="txt">@gamaw_ @FantomaRimbaud @Gerogriniaris @filokalia @atsipras Μούλε @gamaw_ έχεις να μπεις από το 2014 και μπήκες να… https://t.co/BZ0bqg8KAg</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804397114453266432</field>
+		<field name="usr">kpiliounis3</field>
+		<field name="txt">RT @Kostas_Neoellhn: Και εντάξει πήγες ρε @atsipras στην Κούβα.Πως μιλάς για Ελευθερία ή Θάνατος εσύ που κατέβασες τα βρακιά σου στη Τρόικα…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804400875187929088</field>
+		<field name="usr">Parga1967</field>
+		<field name="txt">@PenelopeD10 να του πάει του @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804401242873143296</field>
+		<field name="usr">charitosdimitri</field>
+		<field name="txt">Μπράβο @atsipras σε &quot;θαυμάζουμε&quot; για το καταστροφικό σου έργο:
+Αλγερινός αποπειράθηκε να βιάσει φοιτήτρια στη Λέσβο https://t.co/KSQgm3LdQs</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804401662509125632</field>
+		<field name="usr">toscaross</field>
+		<field name="txt">RT @toscaross: @atsipras Questo discorso emozionante per #Fidel  passerà alla storia! Onore di tutta la sinistra grazie #alexis tsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804401715860611072</field>
+		<field name="usr">toscaross</field>
+		<field name="txt">RT @toscaross: @atsipras il tuo discorso per #Fidel passerà alla storia!#emozionanti le tue bellissime parole.Orgoglio per tutta la sinistr…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804402035672154112</field>
+		<field name="usr">Dim_Zaharakis</field>
+		<field name="txt">Άσε Κουλη, μας τα είπε ο @atsipras 
+Έχεις κάτι καινούργιο η έτσι θα το πας κ εσυ ? https://t.co/kQQEIXuqiz</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804402906682314756</field>
+		<field name="usr">filokalia</field>
+		<field name="txt">@gamaw_ έγινε π/θ κ με τ ψήφο μου.Σωστά.Γιατι μου υποσχέθηκε άρνηση υποταγής.Κ με κορόιδεψε @FantomaRimbaud @Gerogriniaris @AK7FZ @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804403271406415876</field>
+		<field name="usr">filokalia</field>
+		<field name="txt">@gamaw_ όπως έγινε π/θ ο Σαμαράς με αντιμνημονιο+μη συνεργασία με ΠΑΣΟΚ.Κ ειπε πάλι ψεμματα @FantomaRimbaud @Gerogriniaris @AK7FZ @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804403660168036352</field>
+		<field name="usr">ab43_</field>
+		<field name="txt">@atsipras Αλεξη βάστα γερά μεχρι να πιάσεις μονοψηφια ποσοστά. Ξερεις 1%, 2% 7% αυτά #syriza_xeftiles</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804405115167842304</field>
+		<field name="usr">allhend</field>
+		<field name="txt">@tsipras_eu @atsipras  Μην ξεχάσω να σκυλοβρίσω τους Ξένους. Θα μου το θυμήσεις;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804406333801922560</field>
+		<field name="usr">ibiris</field>
+		<field name="txt">@atsipras with @fhollande out in 2017 you&#39;ll probably have to talk to Lepen or Fillon. How&#39;s your self illusion about this #EU going?</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804406919247130625</field>
+		<field name="usr">hellasspecial</field>
+		<field name="txt">@thaka52 @atsipras και με τον αστυφυλαξ και μα τον χωροφυλαξ ποση ξεφτιλα μπορει να αντεξει αυτος ο τοπος.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804408716497920000</field>
+		<field name="usr">varlamisn</field>
+		<field name="txt">RT @OmadaLogikis: &quot;Ο ταλαντούχος πρωθυπουργός Αλέξης Τσίπρας…@aTsipras…&quot;
+Asta la siesta…Viva la siesta siembre…https://t.co/PYJcptkCb9 http…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804410359260053504</field>
+		<field name="usr">Parga1967</field>
+		<field name="txt">@atsipras μόνο αν ξεκουμπιστείτε θα γλυτωσουμε https://t.co/aynt6dOShQ</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804410954133843968</field>
+		<field name="usr">augolemonos</field>
+		<field name="txt">@atsipras  :(</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804411149903085568</field>
+		<field name="usr">ManolisKyriacou</field>
+		<field name="txt">@NicholasPapadop @atsipras @cpantelides @AthosAntoniades @SolomouG https://t.co/DGL7LyqYW4</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804411781657464832</field>
+		<field name="usr">axnisti_kourada</field>
+		<field name="txt">@atsipras με αφορμή την #5ΗΜΕΡΗ_ΣΤΗΝ_ΚΟΥΒΑ δεν κάνεις και καμιά κατάληψη στην Κούβα να μη σε ξαναδούμε;</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804413867812159490</field>
+		<field name="usr">APOZARKADAS</field>
+		<field name="txt">RT @PappasXA: Ο @atsipras  έχει ξεφύγει εντελώς… Συνέκρινε την Επανάσταση του 1821 με την «επανάσταση του Κάστρο»! https://t.co/HARKWoDDBH</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804414249711861760</field>
+		<field name="usr">konmanol1</field>
+		<field name="txt">Μή στεναχωριέσαι @atsipras ! Πολλά μάτς στο μπάσκετ έχουν γυρίσει από 16-32! Έχεις παιχταράδες εσύ!</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804415482182897665</field>
+		<field name="usr">ODEP_Institute</field>
+		<field name="txt">RT @NeaPoreia_org: ο κύριος @atsipras συνεχίζει να μας βομβαρδίζει με τα επιτεύγματα και τις επιλογές του ...
+#castrofidel #tsipras https:/…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804419432814702592</field>
+		<field name="usr">KSidiropoulos3</field>
+		<field name="txt">RT @SpyrosBlatsios: Καταυλισμός προσφύγων από τη Συρία στην Πέτρα Ολύμπου.
+Συγχαρητήρια @atsipras, συγχαρητήρια υπουργέ Μουζάλας, συγχαρητή…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804420836149067776</field>
+		<field name="usr">ktistakis_lef</field>
+		<field name="txt">Όλα εδώ πληρώνονται: και το Ολαντρέου, και το Go back madame Merkel. Cc @atsipras https://t.co/v6rBvbglUe</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804423645653241858</field>
+		<field name="usr">georgekakousis</field>
+		<field name="txt">Ναι, αλλα μην ξεχνάμε, ότι η δημοσκόπηση έγινε πριν το @atsipras πάει στην Αβάνα... https://t.co/KxmMzJVeL3</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804427957469069312</field>
+		<field name="usr">DannyWildeN1</field>
+		<field name="txt">RT @PrimeministerGR: Η Παγκόσμια Ημέρα κατά του AIDS μας θυμίζει πως η πολιτική της δημόσιας Υγείας πρέπει να παρέχεται καθολικά &amp; δωρεάν.h…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804427969712312320</field>
+		<field name="usr">DannyWildeN1</field>
+		<field name="txt">RT @PrimeministerGR: Εκφράζω τα βαθύτερα συλλυπητήριά μου στην οικογένεια της αδικοχαμένης εργαζόμενης. https://t.co/jwmQIbyHeO (2/2)</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804428142672637952</field>
+		<field name="usr">ysterografa</field>
+		<field name="txt">.@atsipras : Η απώλεια μιας εργαζόμενης γυναίκας προκαλεί οδύνη https://t.co/M0yYfmMbYv … #Ysterografa @PrimeministerGR @nikospappas16</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804428273769938945</field>
+		<field name="usr">myrto_nik</field>
+		<field name="txt">RT @PrimeministerGR: Η απώλεια μιας εργαζόμενης μητέρας κατά το σημερινό τραγικό συμβάν στην Πλατεία Βικτωρίας μας προκαλεί οδύνη. (1/2)</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804428593010835456</field>
+		<field name="usr">politorth</field>
+		<field name="txt">RT @georgekakousis: Ναι, αλλα μην ξεχνάμε, ότι η δημοσκόπηση έγινε πριν το @atsipras πάει στην Αβάνα... https://t.co/KxmMzJVeL3</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804428743695470593</field>
+		<field name="usr">ysterografa</field>
+		<field name="txt">.@kmitsotakis Δημοσκόπηση: Double score για @neademokratia, στο +16% από τον @syriza_gr https://t.co/XHZKvuO2Py … #Ysterografa @atsipras</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804428938059522048</field>
+		<field name="usr">CavaData</field>
+		<field name="txt">RT @CavaData: Δεν μου φταίει κανείς:
+φταίνε τα μάτια μου που ακόμα σας ποτίζουνε με δάκρυα! @PrimeministerGR https://t.co/adjixe5wc0</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804429133593935872</field>
+		<field name="usr">PannyRavinet</field>
+		<field name="txt">@CountesValerena @atsipras μη μιλατε γιαυτον κε Τσιπρα... τον εχετε αποκηρυξει τρεις φορές με τις πραξεις σας.Στριφογυριζει στην τεφροδοχο!</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804430124376584193</field>
+		<field name="usr">nkambouroudis</field>
+		<field name="txt">@PrimeministerGR ελα πες την αληθεια.. πουλας αριστεροσυνη για να την κανεις με αξιοπρεπεια. Εχεις γινει μακραν ο χειροτερος ολων.</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804430368136826882</field>
+		<field name="usr">GirlygirlinMN</field>
+		<field name="txt">FYI, @PrimeministerGR Obama, faux POTUS is NOT popular, his approval polls are PHONY. He&#39;s a pathological LIAR.Gave… https://t.co/UaUuaEluhv</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804430747918602241</field>
+		<field name="usr">aphorismoi</field>
+		<field name="txt">Κοίτα τι κουμάσια έχεις στον κόρφο σου ανόητε @atsipras https://t.co/5dYjqyOQcM</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804432379972554752</field>
+		<field name="usr">GeorgiadouL</field>
+		<field name="txt">RT @konmanol1: Έχει η Αλγερία πόλεμο ρε γαμώτο; Γιατί τους κρατάτε και δεν τους διαολοστέλνετε μωρέ; @syriza_gr @atsipras https://t.co/1PK8…</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804433247858020352</field>
+		<field name="usr">Christo66628286</field>
+		<field name="txt">Αλέξη άρχισε να φορολογεις τις ηλικίες. Σε 2 μέρες θα έχουμε ξεχρεώσει @atsipras  #thevoicegr</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804433669867892736</field>
+		<field name="usr">KalomiraTa</field>
+		<field name="txt">RT @Christo66628286: Αλέξη άρχισε να φορολογεις τις ηλικίες. Σε 2 μέρες θα έχουμε ξεχρεώσει @atsipras  #thevoicegr</field>
+		<field name="tweetDate">2016-12-01</field>
+		<field name="hashtag">@PrimeministerGR</field>
+	</row>
+
+	<row>
+		<field name="id">804433826805972992</field>
+		<field name="usr">MikeKou7</field>
+		<field name="txt">RT @zuridion: Μπορείς να συγκυβερνάς με έναν Κατσίκη που ξερνάει ομοφοβία από το βήμα της βουλής; Δεν ξέρω, ρωτάω. @atsipras</field>
 		<field name="tweetDate">2016-12-01</field>
 		<field name="hashtag">@PrimeministerGR</field>
 	</row>
