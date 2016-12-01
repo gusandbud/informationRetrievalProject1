@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 
 import com.mysql.jdbc.Connection;
 
-import informationRetrievalProj1.storeToDB;
+import farming.storeToDB;
 import twitter4j.Status;
 
 public class analyze {
@@ -27,8 +27,8 @@ public class analyze {
 		fSyr = new File("SearchSyriza.txt");
 		fND = new File("SearchND.txt");
 		
-		Syr = informationRetrievalProj1.retrieve.parseFile(fSyr);
-		ND = informationRetrievalProj1.retrieve.parseFile(fND);
+		Syr = farming.retrieve.parseFile(fSyr);
+		ND = farming.retrieve.parseFile(fND);
 		
 		String[] positiveEmotes = {":)", ":-)", ":D", ":-D", "^_^", "^.^", ":*", ":-*"};
 		String[] negativeEmotes = {":(", ":-(", ":'("};
