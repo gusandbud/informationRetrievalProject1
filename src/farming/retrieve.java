@@ -18,7 +18,7 @@ public class retrieve {
 	
 	public static void main(String[] args) throws TwitterException{
 		
-		//MineFromTwitter m = new MineFromTwitter();
+		
 		List<Status> lND = new ArrayList<Status>();
 		List<Status> lSyr = new ArrayList<Status>();
 		List<Status> lPM = new ArrayList<Status>();
@@ -43,10 +43,6 @@ public class retrieve {
 		lPM = startSearch("@PrimeministerGR");
 		lPM.addAll(startSearch ("@atsipras"));
 		stDB.store(lPM, "@PrimeministerGR", "timelineBased");
-		
-		
-		
-		
 		
 		//for (Status tweet : lND) {
 		//	System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
